@@ -1,3 +1,4 @@
-Tema 1: Introduccion a Git
-Tema 2: Configuracion del repositio
-tema 3: Introduccion a comandos 
+Capítulo 1: Introducción a Git
+Capítulo 2: Flujo de trabajo básico
+Capítulo 3: Gestión de ramas
+Capítulo 4: Repositorios remotos
