@@ -1,0 +1,3 @@
+Tema 1: Introduccion a Git
+Tema 2: Configuracion del repositio
+tema 3: Introduccion a comandos 
